@@ -73,7 +73,7 @@ const LandingPage = () => {
       
       <AnimatedTransition>
         <div className="relative min-h-screen flex flex-col">
-          <div className="absolute inset-1">
+          <div className="absolute inset-0">
             <BackgroundPaths title="Sanrakshak" />
           </div>
           
